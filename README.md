@@ -11,7 +11,7 @@ L'objectif de ce travail est de concevoir et de mettre en œuvre un pipeline d'a
 Structure du Répertoire
 Le projet est organisé de la manière suivante :
  * data/ : Contient les fichiers sources (student-mat.csv, movies.json).
- * notebooks/ : Contient le notebook principal (TP1_KDD_Pipeline.ipynb).
+ * notebooks/ : Contient le notebook principal (KDD.ipynb).
  * src/ : Dossier dédié aux scripts Python réutilisables.
  * requirements.txt : Liste des dépendances nécessaires au projet.
 Installation
@@ -20,5 +20,5 @@ pip install -r requirements.txt
 
 Utilisation
 Pour visualiser les étapes d'acquisition et de fusion des données, veuillez ouvrir le fichier suivant avec Jupyter Lab ou VS Code :
-notebooks/TP1_KDD_Pipeline.ipynb
+notebooks/KDD.ipynb
 
