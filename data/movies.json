@@ -1,0 +1,38 @@
+[
+  {
+    "MovieID": 1,
+    "Title": "Interstellar",
+    "Genre": "Sci-Fi",
+    "StudentID": 1
+  },
+  {
+    "MovieID": 2,
+    "Title": "The Godfather",
+    "Genre": "Crime",
+    "StudentID": 2
+  },
+  {
+    "MovieID": 3,
+    "Title": "The Dark Knight",
+    "Genre": "Action",
+    "StudentID": 3
+  },
+  {
+    "MovieID": 4,
+    "Title": "Parasite",
+    "Genre": "Thriller",
+    "StudentID": 4
+  },
+  {
+    "MovieID": 5,
+    "Title": "Spirited Away",
+    "Genre": "Animation",
+    "StudentID": 5
+  }
+]
+ieID": 5,
+        "Title": "Inception",
+        "Genre": "Sci-Fi",
+        "StudentID": 5
+    }
+]
