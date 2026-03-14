@@ -1,4 +1,4 @@
-$TP N°1 : Pipeline d'Acquisition de Données (KDD)
+TP N°1 : Pipeline d'Acquisition de Données (KDD)
 Présentation du Projet
 Ce projet a été réalisé dans le cadre du module Data Mining (L2 MIAGE/DA2I 2025-2026) sous la direction du Pr. EL BENANY.
 Objectif Principal
