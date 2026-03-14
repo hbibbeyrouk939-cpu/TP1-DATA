@@ -28,9 +28,10 @@
     "Title": "Spirited Away",
     "Genre": "Animation",
     "StudentID": 5
-  }
+  },
 ]
-ieID": 5,
+{
+   "MovieID": 5,
         "Title": "Inception",
         "Genre": "Sci-Fi",
         "StudentID": 5
